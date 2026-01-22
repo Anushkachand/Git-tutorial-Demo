@@ -82,3 +82,16 @@ git add .
 - Scroll down → Commit changes
 ✔ Folder 01_basics
 ✔ File 01_variables.js
+
+
+In the file name box, type the folder path like this:
+
+04.PROJECTS/01.ColorChanger/index.html
+
+o/p:
+```
+04.PROJECTS
+└── 01.ColorChanger
+    └── index.html
+```
+
