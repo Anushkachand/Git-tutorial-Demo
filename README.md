@@ -95,3 +95,24 @@ o/p:
     └── index.html
 ```
 
+
+
+![Project Screenshot](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ae1e66ef-bfcc-4700-b948-32f51690113f" />)
+How to remove this arrow ?
+
+✅ Command (works in Windows Terminal)
+```
+git rm -r --cached 04_Variable
+```
+
+= git rm → removes from Git
+- -r → for folders
+- --cached → keeps files on your PC 💻
+
+  🚀 Then update GitHub
+
+  ```
+  git commit -m "Removed folder from repo"
+  git push
+```
+
